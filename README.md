@@ -206,7 +206,7 @@ python code/rank_lgbm_ranker.py --mode valid --logfile debug.log
 - Swing：强化结构性共同兴趣
 - Word2Vec：学习文章语义表示
 - YouTubeDNN：双塔向量召回
-- 冷启动：补充新文章和低曝光文章
+- 冷启动：补充新文章
 
 ### 融合层
 
