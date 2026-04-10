@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Data
+data/*.csv
+data/*.pkl
+data/*.npy
+data/*.npz
+
+# Outputs / artifacts
+user_data/
+user_data2/
+temp_results/
+results/
+test_results/
+checkpoints/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
